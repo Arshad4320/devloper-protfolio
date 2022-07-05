@@ -4,6 +4,17 @@ body {
     margin: 0;
 }
 
+.top-section {
+    background-image: url(imges/top-banner.png);
+    background-repeat: no-repeat;
+}
+
+.drem_big {
+    background-image: url(imges/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
 .color-orang {
     color: orange;
 }
@@ -42,4 +53,47 @@ body {
 .drem_big_content h1 {
     font-size: 50px;
 
+}
+
+.expriens_section {
+    background-image: url(imges/exp-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+
+.experiens_content_ariea {
+    display: flex;
+    margin-bottom: 100px;
+
+}
+
+.common_style {
+    width: 50%;
+    padding: 50px;
+    margin-right: 25px;
+    margin-left: 55px;
+    box-shadow: 7px 6px 20px grey;
+    border-radius: 10px;
+}
+
+.common_style h1 {
+    font-size: 43px;
+}
+
+.expriences-title {
+    font-size: 45px;
+}
+
+.fullstack_devloper {
+    border-left: 7px solid red;
+}
+
+.web_devoloper {
+    border-left: 7px solid blue;
+}
+
+footer {
+    font-size: 20px;
+    text-align: center;
+    color: rgb(125, 123, 123);
 }
