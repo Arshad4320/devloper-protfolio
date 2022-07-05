@@ -1,0 +1,45 @@
+body {
+    font-family: 'Hind Madurai', sans-serif;
+    font-family: 'Manrope', sans-serif;
+    margin: 0;
+}
+
+.color-orang {
+    color: orange;
+}
+
+.flexible_content {
+    display: flex;
+    margin-bottom: 40px;
+}
+
+.content-area {
+    padding: 20px 134px;
+}
+
+.content-area h1 {
+    font-size: 50px;
+}
+
+.half-width {
+    width: 50%;
+
+}
+
+.half-width img {
+    width: 80%;
+}
+
+.common_button {
+    text-decoration: none;
+    background-color: red;
+    color: white;
+    padding: 8px 35px;
+    font-weight: 700;
+    border-radius: 6px;
+}
+
+.drem_big_content h1 {
+    font-size: 50px;
+
+}
